@@ -23,6 +23,7 @@ public class Exam04 {
 		double var5 = Double.parseDouble(var4) + 2.3;
 		System.out.println("var5: " + var5);
 		
+		// ㅁㄴㅇ
 		// 숫자 => 문자열로 변환
 		int var6 = 3;
 		// 방법1
