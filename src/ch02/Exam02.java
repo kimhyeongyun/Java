@@ -10,7 +10,7 @@ public class Exam02 {
 		System.out.println("var2 : " + var2);
 
 		
-		// 강제 타입 변환
+		// 강제 타입 변환 asadasd
 		int var3 = 10;
 		byte var4 = (byte) var3; // var3의 타입의 크기가 더 크므로 var4에 들어갈 수 없음.
 		System.out.println("var4 : " + var4);
