@@ -11,6 +11,9 @@ public class Hello {
 		System.out.println("Hello Java!6");
 		System.out.println("Hello Java!7");
 		System.out.println("Hello Java!9");
+		System.out.println("Hello Java!8");
+		System.out.println("Hello Java!8");
+		System.out.println("Hello Java!8");
 	}
 
 }
