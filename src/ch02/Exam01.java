@@ -16,7 +16,7 @@ public class Exam01 {
 		
 		// 실수 타입의 변수 선언과 값 저장
 		float var5 = 0.123456789123456789f;
-		double var6 = 0.123456789123456789; // 더블타입의 변수 var6에 2.5를 저장한다.
+		double var6 = 0.123456789123456789; // 더블타입의 변수 var6에 0.123456789123456789를 저장한다.
 		// double 의 정밀도가 더 높다. 자바에서는 웬만해서 소수를 쓸 때 double을 사용
 		System.out.println("var5 : " + var5);
 		System.out.println("var6 : " + var6);

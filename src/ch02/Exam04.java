@@ -14,14 +14,15 @@ public class Exam04 {
 		String var2 = var1 + 5;
 		System.out.println("var2: " + var2);
 		
-		// 문자열을 정수로 변경해서 연산
+		// 문자열을 정수로 변경해서 연산 (parseInt)
 		int var3 = Integer.parseInt(var1) + 5;
 		System.out.println("var3: " + var3);
 		
-		// 문자열을 실수로 변환해서 연산
+		// 문자열을 실수로 변환해서 연산 (parseDouble)
 		String var4 = "10.5";
 		double var5 = Double.parseDouble(var4) + 2.3;
-		System.out.println("var5: " + var5);
+		double var99 = Double.parseDouble(var4) + 2.3;
+		System.out.println("var5: " + var99);
 		
 		// ㅁㄴㅇ
 		// 숫자 => 문자열로 변환
