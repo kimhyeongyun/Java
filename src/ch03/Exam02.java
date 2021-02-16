@@ -9,6 +9,7 @@ public class Exam02 {
 		int var1 = 2;
 		int var2 = 3;
 		
+		
 		boolean var3 = var1 == var2; // false
 		boolean var4 = var1 != var2; // true
 		boolean var5 = var1 > var2; // false
