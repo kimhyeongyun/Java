@@ -19,8 +19,10 @@ public class Exam01 {
 		var2 = var2 - 1;
 		var2 -= 1;
 		var2--;
+		// 아무글자ㄴㅁㅇ
+		// 아무글자
 		System.out.println("var2: " + var2);
-
+//ㅁㄴㅇㅁㄴㅇ
 		int var3 = 16;
 		var3 = var3 / 2;
 		var3 /= 2;
