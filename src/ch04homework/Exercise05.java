@@ -17,10 +17,8 @@ public class Exercise05 { // Exam06 : 클래스 이름이라고 함.
 			System.out.println("-------------------------");
 			System.out.print("선택> ");
 			
-			
-			//int num1 = Integer.parseInt(scanner.nextLine());
 			int num1 = Integer.parseInt(scanner.nextLine());
-			
+				
 			if(num1 == 1){
 				System.out.print("예금액>");
 				Integer.parseInt(scanner.nextLine());
