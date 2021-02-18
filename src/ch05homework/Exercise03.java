@@ -13,16 +13,14 @@ public class Exercise03 {
 		Scanner scanner = new Scanner(System.in);
 		
 		while(run) {
-			System.out.println("-------------------------");
+			System.out.println("---------------------------------------------");
 			System.out.println("1.학생수 | 2.점수입력 | 3.점수리스트 | 4.분석 |5.종료");
-			System.out.println("-------------------------");
+			System.out.println("---------------------------------------------");
 			System.out.print("선택> ");
 			
 //			int selectNo = scanner.nextInt();
 			int selectNo = Integer.parseInt(scanner.nextLine());
-			
-			
-			
+
 			if(selectNo == 1) { // 1을 읽었을 경우				
 				System.out.print("학생수> ");
 				studentNum = Integer.parseInt(scanner.nextLine());
@@ -47,7 +45,6 @@ public class Exercise03 {
 				double avg = 0;
 				for(int i=0; i < scores.length; i++) {
 					sum += scores[i];
-					
 					if(max < scores[i]) {
 						max = scores[i];
 					}
