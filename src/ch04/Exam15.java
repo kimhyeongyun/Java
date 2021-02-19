@@ -20,6 +20,7 @@ public class Exam15 { // Exam06 : 클래스 이름이라고 함.
 			if(data.equals("점심시간")) { // 문자열을 비교할 때는 equals를 이용, 나중에 다시 알려줄 것
 				break;
 			}
+			
 		}
 	}
 }
