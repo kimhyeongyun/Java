@@ -1,4 +1,4 @@
-package exam08;
+package ch06.exam08;
 
 import java.util.Arrays;
 

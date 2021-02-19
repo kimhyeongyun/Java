@@ -1,4 +1,4 @@
-package exam05;
+package ch06.exam05;
 
 public class Example {
 
