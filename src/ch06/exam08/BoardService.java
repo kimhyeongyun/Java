@@ -21,6 +21,7 @@ public class BoardService {
 	int getNewBno() {
 		return ++count;
 	}
+	
 	void create(String title, String content, String writer, int hitcount) {
 		int bno = getNewBno();
 		String[] board = {
@@ -50,7 +51,6 @@ public class BoardService {
 	
 	String[] read(int bno) { 
 		String[] result = null; // Áß¿ä
-		
 		String strBno = String.valueOf(bno);
 		for(int i=0; i < boards.length; i++) {
 			if(boards[i][0] != null) {
