@@ -13,7 +13,7 @@ public class Exam02 {
 		
 		// 변수를 선언한 후 값 목록을 제공할 경우
 		int[] scores2 = null;
-		scores2 = new int[] {10, 20, 30}; // 그냥 외우자. 이유를 굳이 설명하자면 컴파일러는 scores2가 참조변수인 것만 알지 
+		scores2 = new int[] {10,     20, 30}; // 그냥 외우자. 이유를 굳이 설명하자면 컴파일러는 scores2가 참조변수인 것만 알지 
 		//이것이 배열 변수인 모르므로 
 		
 		// method 호출

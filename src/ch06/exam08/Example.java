@@ -13,7 +13,7 @@ public class Example {
 		
 //		bs.read(1);
 		
-		String[] board = bs.read(2);
+		String[] board = bs.read(1);
 		for(String value : board) {
 			System.out.print(value + "\t");
 		}

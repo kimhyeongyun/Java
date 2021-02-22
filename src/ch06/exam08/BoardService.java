@@ -56,7 +56,7 @@ public class BoardService {
 			if(boards[i][0] != null) {
 				if(boards[i][0].equals(strBno)) {
 					result = boards[i];
-//					System.out.println(result);
+					System.out.println(boards[i][0]);
 					break;
 				}
 			}
