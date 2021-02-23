@@ -9,11 +9,11 @@ public class Example {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Board b1 = new Board();
-		b1.title = "力格1";
-		
-		Product p1 = new Product();
-		b1.name = "技殴扁";
+//		Board b1 = new Board("rksksk");
+//		b1.title = "力格1";
+//		
+//		Product p1 = new Product();
+//		p1.name = "技殴扁";
 				
 		Date now = new Date();
 		
