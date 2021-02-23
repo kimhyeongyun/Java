@@ -1,8 +1,7 @@
 package ch08.exam02;
 
 public class Example {
-			// static 이유인 이유: 안쓰면 인스턴스 메서드가됨. 그러면  Example e = new Example();
-	                                                    //e = 
+        // static인 이유: 안쓰면 인스턴스 메서드가됨. 그러면  Example e = new Example(); e = 
 	public static void method(RemoteControl rc) { // 인터페이스로 사용가능한 객체만 올 수 있음.(implements )
 		// 인터페이스의 설명대로만 사용하는 코드
 		rc.turnOff();
