@@ -1,18 +1,13 @@
 package ch07.exam11;
 
-public class Dog {
-	public String name;
-	public String kind;
+public class Dog extends Animal {
 	
-	public void sleep() {
-		System.out.println("잠을 잡니다.");
-	}
-	public void eat() {
-		System.out.println("먹습니다.");
-	}
+	@Override
 	public void sound() {
-		System.out.println("왈왈");
+		// TODO Auto-generated method stub
 	}
+
+	
 	public void keepHome() {
 		System.out.println("방범 활동을 해요.");
 	}
