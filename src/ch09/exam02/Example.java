@@ -9,7 +9,7 @@ public class Example {
 		b.field = 1;
 		b.method();
 		
-		C c =new C();
+		A.C c = new A.C();
 		c.field = 1;
 		c.method();
 	}

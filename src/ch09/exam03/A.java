@@ -10,5 +10,7 @@ public class A {
 				int result = x + y;
 			}
 		}
+		
+		
 	}
 }
