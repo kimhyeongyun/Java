@@ -1,6 +1,5 @@
 package ch11.exam02;
 
-import com.sun.xml.internal.bind.v2.runtime.RuntimeUtil.ToStringAdapter;
 
 public class Member {
 	private String id;

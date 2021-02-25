@@ -9,7 +9,6 @@ public class Example {
 		Object var1 = new Object();
 		System.out.println(var1.toString());
 
-		
 		Date var2 = new Date();
 		System.out.println(var2.toString());
 		
