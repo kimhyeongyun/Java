@@ -7,13 +7,14 @@ import ch06.exam15.pack1.*;
 
 public class Example {
 
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Board b1 = new Board();
-		b1.title = "力格1";
+		Board b1 = new Board(null);
+		b1.title("力格1");
 		
 		Product p1 = new Product();
-		b1.name = "技殴扁";
+		p1.name = "技殴扁";
 				
 		Date now = new Date();
 		
