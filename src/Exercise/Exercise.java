@@ -12,7 +12,7 @@ public class Exercise {
 		
 		HandPhone handphone = new HandPhone("samsung");
 		
-		handphone.charge(oute lec);
+		handphone.charge(outelec);
 		
 		System.out.println(outelec.Elec);
 		
