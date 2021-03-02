@@ -12,7 +12,7 @@ public class Example2 {
 		queue.offer("ȫ�浿");
 		queue.offer("ȫ�漭");
 		queue.offer("ȫ�泲");
-		//
+		////
 		while(!queue.isEmpty()) {
 			String item = queue.poll();
 			System.out.println(item);
