@@ -8,7 +8,7 @@ public class Example2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Queue<String> queue = new LinkedList<>();
-		
+		//
 		queue.offer("ȫ�浿");
 		queue.offer("ȫ�漭");
 		queue.offer("ȫ�泲");
