@@ -8,7 +8,7 @@ public class Example {
 		A.B b = a.new B();
 		b.field = 1;
 		b.method();
-		
+		//
 		A.C c = new A.C();
 		c.field = 1;
 		c.method();
